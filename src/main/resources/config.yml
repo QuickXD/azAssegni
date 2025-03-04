@@ -1,0 +1,11 @@
+
+assegno:
+  nome: "&6&lASSEGNO &a{amount}$"  # {amount} verrà sostituito con la somma
+  lore:
+    - "&7By &e{player}"  # {player} verrà sostituito con il nome del giocatore
+
+messages:
+  no_money: "&cNon hai abbastanza soldi per creare un assegno!"
+  success: "&aHai creato un assegno da &6{amount}$!"
+  redeem: "&aHai riscosso un assegno da &6{amount}$!"
+  invalid_amount: "&cImporto non valido! Inserisci un numero positivo."

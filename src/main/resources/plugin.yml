@@ -1,4 +1,9 @@
 name: azAssegni
-version: '${project.version}'
+version: 1.0
 main: it.quick.azassegni.AzAssegni
-api-version: '1.20'
+api-version: 1.20
+commands:
+  assegno:
+    description: Crea un assegno con una somma di denaro.
+dependencies:
+  vault: true
