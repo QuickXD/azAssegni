@@ -1,0 +1,4 @@
+name: azAssegni
+version: '${project.version}'
+main: it.quick.azassegni.AzAssegni
+api-version: '1.20'
